@@ -1,0 +1,5 @@
+Descargar GIT Bash:
+https://git-scm.com/
+
+Añadir la siguiente línea en la configuración de usuario:
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
