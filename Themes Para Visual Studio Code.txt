@@ -1,0 +1,6 @@
+Utilizo:
+--------
+Ayu
+
+
+Para activar Tema, tenemos que pulsar CTRL + SHIFT + P, y seleccionar Preferencias: Tema de color
