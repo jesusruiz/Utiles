@@ -1,0 +1,46 @@
+MENÚ ARCHIVO -> PREFERENCIAS -> MÉTODOS ABREVIADOS DE TECLADO
+
+Borrar la línea donde se encuentra el cursor:
+Ctrl + X
+
+Copiar la línea donde se encuentra el cursor al portapapeles:
+Ctrl + C
+
+Copiar en el editor los datos almacenados en el portapapeles:
+Ctrl + V
+
+Mover la línea donde se encuentra el cursor hacia abajo:
+Alt + flecha abajo
+
+Para desplazar la línea donde se encuentra el cursor hacia arriba debemos utilizar las teclas:
+Alt + flecha arriba
+
+Para copiar la línea actual en la línea siguiente disponemos del atajo de teclado:
+Shift + Alt + flecha abajo
+
+
+De modo similar para copiar la línea donde se encuentra el cursor hacia arriba debemos utilizar las teclas:
+Shift + Alt + flecha arriba
+
+Seleccionar múltiples líneas de código al mismo tiempo
+Clic derecho del ratón + Alt
+
+Para insertar una línea abajo de donde se encuentra el cursor (no importa en que parte de la línea actual se encuentra el cursor) debemos seleccionar:
+Ctrl + Enter
+
+De modo equivalente si queremos insertar una línea arriba de donde se encuentra el cursor y desplazar el cursor a dicha línea tenemos el atajo de teclado:
+Shift + Ctrl + Enter
+
+Para desplazar el cursor al principio de la línea disponemos la tecla "Inicio"
+
+Para desplazar el cursor al final de la línea disponemos la tecla "Fin"
+
+Para desplazar el cursor al principio del archivo debemos presionar Ctrl + Inicio
+
+Para desplazar el cursor al final del archivo disponemos las teclas Ctrl + Fin
+
+Hacer scroll hacia abajo sin desplazar el cursor: ALT + Av. Pag
+
+Hacer scroll hacia arriba sin desplazar el cursor: ALT + Re. Pag
+
+Comentario: Seleccionando el párrafo y presionando MAYUSC + ALT + A
