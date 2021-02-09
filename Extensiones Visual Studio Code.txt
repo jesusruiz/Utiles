@@ -1,9 +1,43 @@
-https://www.youtube.com/watch?v=IHOdTjNnd_U
+1) Configurar idioma de pantalla:
 
-Utilizo:
---------
-CSS Minify
-Intellisense for CSS class name in HTML
-Live Server
-Open in Browser
-Spanish Language Pack for Visual Studio Code
+CTRL + SHIFT + P
+
+Configure display language
+
+Seleccionar Español de España
+
+
+2) Añadir instalador de extensiones
+
+CTRL + SHIFT + P
+
+Install Extensions
+
+- open in browser
+- IntelliSense for CSS class names in HTML
+- JS & CSS Minifier (Minify)
+- Live Server  Ver los cambios automáticamente, sin tener que actualizar el navegador  - botón derecho sobre el código.
+- Auo Close Tag
+- Babel JavaScript  (no instalada por ahora)
+- Cloak   Ocultar variables de entorno Streaming Youtube... (no instalada por ahora)
+- Debugger for Chrome    Debugging de código (no instalada por ahora)
+- DotENV    variables de entorno en colores  (no instalada por ahora)
+- ESLint    (no instalada por ahora)
+- GitHub Pull Request and Issues    Ver las Request y Issues publicadas en nuestros proyectos en GitHub (no instalada por ahora)
+- GitLens  Ver quién cambió un cambio en GitHub (no instalada por ahora)
+- Higlight Matching Tags   Ver los inicios y cierres de etiqueta de una manera visual muy rápida 
+- Import Cost   Cuánto va a ocupar alguna librería que voy a importar a mi proyecto  (no instalada por ahora)
+- Indent rainbow    Indentaciones de códigos en colores visuales   (no instalada por ahora)
+- language stylus   Para quien utilice Stylus. Darle soporte al navegador  (no instalada por ahora)
+- Material Icon Theme   Material de iconos para visualizar en las pestañas de VSC con qué lenguaje está trabajando ese archivo  (no instalada por ahora)
+- npm   Soporte para las dependencias JSON   (no instalada por ahora)
+- NPM-Scripts   Tab con los scripts de mis proyectos    (no instalada por ahora)
+- Python  
+- ES7 React/Redux/GraphQL/React-Native snippets Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout Vue 2 Snippets
+- Svelte
+- Trailing Spaces  Encuentra y elimina espacios en nuestro código    (no instalada por ahora)
+- WakaTime   En qué lenguaje estamos trabajando más y cuánto tiempo hemos dedicado     (no instalada por ahora)
+- JavaScript (ES6) code snippets     (no instalada por ahora)
+- Color Picker       (no instalada por ahora)
+
+  
